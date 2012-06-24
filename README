@@ -1,1 +1,3 @@
-Stock-Split-Report identifies stocks that may announce a stock split in the future. It searches the public SEC database periodically looking for key data required before a stock can split.   
+Stock-Split-Report identifies stocks that may announce a stock split in the future. 
+It searches the public SEC database periodically looking for key data required before a stock can split. 
+The document to analyze is the 10k report.
